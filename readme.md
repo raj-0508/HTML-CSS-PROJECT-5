@@ -9,4 +9,4 @@ In this project, I have learnt the Flex property, which is a powerful tool in CS
 
 # Screenshot
 
- ! [image] (./Screenshot.png)
+ ![image](Screenshot.png)
